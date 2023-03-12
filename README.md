@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devconte
-- 👀 I’m interested in becoming a professional programmer
+- 👀 I’m interested in becoming a professional programmer, i am pursuing a 6 months JavaScript Full Stack Bootcamp at O'Clock !
 - 🌱 I’m currently learning HTML/CSS/JS and would like to focus on the back-end in the future (NodeJS and maybe PhP)
 - 💞️ I’m looking for any advice or help that can make my code better
 - 📫 How to reach me : romain.lcnte@gmail.com 
